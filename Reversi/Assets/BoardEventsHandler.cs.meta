@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 675ce738300944c6aad497634f9164a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _turnLabel: {fileID: 11440168, guid: 6b93290400504447b832a68e5183fab7, type: 3}
+  - _blackScoreLabel: {instanceID: 0}
+  - _whiteScoreLabel: {instanceID: 0}
+  - _whiteItemMaterial: {fileID: 2100000, guid: 7c87e27bd1f78b0428767f444b4cea63,
+      type: 2}
+  - _blackItemMaterial: {fileID: 2100000, guid: 6a7943cebacde4f51ac400b5fb305924,
+      type: 2}
+  - _highlightedCellMaterial: {fileID: 15303, guid: 0000000000000000f000000000000000,
+      type: 0}
+  - _blackCellMaterial: {fileID: 2100000, guid: 6a7943cebacde4f51ac400b5fb305924,
+      type: 2}
+  - _whiteCellMaterial: {fileID: 2100000, guid: 7c87e27bd1f78b0428767f444b4cea63,
+      type: 2}
+  - _ballD5: {instanceID: 0}
+  - _ballE5: {instanceID: 0}
+  - _ballD4: {instanceID: 0}
+  - _ballE4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
